@@ -470,6 +470,7 @@ ul a {
     }
 .logo-span-foot {
     color: #f4f4fd;
+    flex-shrink: 0;
 }
 .foot-text {
     color: #F4F4FD;

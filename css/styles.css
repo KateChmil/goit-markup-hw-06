@@ -884,9 +884,9 @@ ul a {
     }
         .f-c-one, .f-c-two,  .f-c-three {
             
-            align-items: flex-start;
-            
+            align-items: flex-start;  
         }
+        
     .foot-form {
         flex-direction: row;
     }

@@ -353,6 +353,21 @@ ul a {
     background-size: cover;
     margin: 0 auto;
 }
+@media screen and (-webkit-min-device-pixel-ratio: 2),
+(min-resolution: 2dppx),
+(min-resolution: 192dpi) {
+    .first-s {
+        background-image: linear-gradient(to bottom, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
+            url(../images/office-2x.jpg);
+    }
+}
+
+
+
+
+
+
+
 .first-title {
     color: #ffffff;
 
